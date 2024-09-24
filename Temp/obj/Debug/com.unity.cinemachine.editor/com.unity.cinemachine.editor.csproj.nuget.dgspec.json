@@ -1,0 +1,360 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/charliehume/Documents/GitHub/Homework_Three/com.unity.cinemachine.editor.csproj": {}
+  },
+  "projects": {
+    "/Users/charliehume/Documents/GitHub/Homework_Three/Cinemachine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/charliehume/Documents/GitHub/Homework_Three/Cinemachine.csproj",
+        "projectName": "Cinemachine",
+        "projectPath": "/Users/charliehume/Documents/GitHub/Homework_Three/Cinemachine.csproj",
+        "packagesPath": "/Users/charliehume/.nuget/packages/",
+        "outputPath": "/Users/charliehume/Documents/GitHub/Homework_Three/Temp/obj/Debug/Cinemachine/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/charliehume/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/charliehume/Documents/GitHub/Homework_Three/Unity.Timeline.csproj": {
+                "projectPath": "/Users/charliehume/Documents/GitHub/Homework_Three/Unity.Timeline.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/charliehume/Documents/GitHub/Homework_Three/com.unity.cinemachine.editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/charliehume/Documents/GitHub/Homework_Three/com.unity.cinemachine.editor.csproj",
+        "projectName": "com.unity.cinemachine.editor",
+        "projectPath": "/Users/charliehume/Documents/GitHub/Homework_Three/com.unity.cinemachine.editor.csproj",
+        "packagesPath": "/Users/charliehume/.nuget/packages/",
+        "outputPath": "/Users/charliehume/Documents/GitHub/Homework_Three/Temp/obj/Debug/com.unity.cinemachine.editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/charliehume/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/charliehume/Documents/GitHub/Homework_Three/Cinemachine.csproj": {
+                "projectPath": "/Users/charliehume/Documents/GitHub/Homework_Three/Cinemachine.csproj"
+              },
+              "/Users/charliehume/Documents/GitHub/Homework_Three/Unity.Timeline.csproj": {
+                "projectPath": "/Users/charliehume/Documents/GitHub/Homework_Three/Unity.Timeline.csproj"
+              },
+              "/Users/charliehume/Documents/GitHub/Homework_Three/Unity.Timeline.Editor.csproj": {
+                "projectPath": "/Users/charliehume/Documents/GitHub/Homework_Three/Unity.Timeline.Editor.csproj"
+              },
+              "/Users/charliehume/Documents/GitHub/Homework_Three/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/Users/charliehume/Documents/GitHub/Homework_Three/UnityEditor.TestRunner.csproj"
+              },
+              "/Users/charliehume/Documents/GitHub/Homework_Three/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/charliehume/Documents/GitHub/Homework_Three/UnityEngine.TestRunner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/charliehume/Documents/GitHub/Homework_Three/Unity.Timeline.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/charliehume/Documents/GitHub/Homework_Three/Unity.Timeline.csproj",
+        "projectName": "Unity.Timeline",
+        "projectPath": "/Users/charliehume/Documents/GitHub/Homework_Three/Unity.Timeline.csproj",
+        "packagesPath": "/Users/charliehume/.nuget/packages/",
+        "outputPath": "/Users/charliehume/Documents/GitHub/Homework_Three/Temp/obj/Debug/Unity.Timeline/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/charliehume/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/charliehume/Documents/GitHub/Homework_Three/Unity.Timeline.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/charliehume/Documents/GitHub/Homework_Three/Unity.Timeline.Editor.csproj",
+        "projectName": "Unity.Timeline.Editor",
+        "projectPath": "/Users/charliehume/Documents/GitHub/Homework_Three/Unity.Timeline.Editor.csproj",
+        "packagesPath": "/Users/charliehume/.nuget/packages/",
+        "outputPath": "/Users/charliehume/Documents/GitHub/Homework_Three/Temp/obj/Debug/Unity.Timeline.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/charliehume/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/charliehume/Documents/GitHub/Homework_Three/Unity.Timeline.csproj": {
+                "projectPath": "/Users/charliehume/Documents/GitHub/Homework_Three/Unity.Timeline.csproj"
+              },
+              "/Users/charliehume/Documents/GitHub/Homework_Three/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/Users/charliehume/Documents/GitHub/Homework_Three/UnityEditor.TestRunner.csproj"
+              },
+              "/Users/charliehume/Documents/GitHub/Homework_Three/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/charliehume/Documents/GitHub/Homework_Three/UnityEngine.TestRunner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/charliehume/Documents/GitHub/Homework_Three/UnityEditor.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/charliehume/Documents/GitHub/Homework_Three/UnityEditor.TestRunner.csproj",
+        "projectName": "UnityEditor.TestRunner",
+        "projectPath": "/Users/charliehume/Documents/GitHub/Homework_Three/UnityEditor.TestRunner.csproj",
+        "packagesPath": "/Users/charliehume/.nuget/packages/",
+        "outputPath": "/Users/charliehume/Documents/GitHub/Homework_Three/Temp/obj/Debug/UnityEditor.TestRunner/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/charliehume/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/charliehume/Documents/GitHub/Homework_Three/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/charliehume/Documents/GitHub/Homework_Three/UnityEngine.TestRunner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/charliehume/Documents/GitHub/Homework_Three/UnityEngine.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/charliehume/Documents/GitHub/Homework_Three/UnityEngine.TestRunner.csproj",
+        "projectName": "UnityEngine.TestRunner",
+        "projectPath": "/Users/charliehume/Documents/GitHub/Homework_Three/UnityEngine.TestRunner.csproj",
+        "packagesPath": "/Users/charliehume/.nuget/packages/",
+        "outputPath": "/Users/charliehume/Documents/GitHub/Homework_Three/Temp/obj/Debug/UnityEngine.TestRunner/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/charliehume/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
